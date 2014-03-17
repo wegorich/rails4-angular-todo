@@ -11,6 +11,9 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
+# for ordering
+gem 'acts_as_list'
+
 # for design CSS
 gem 'animate-scss'
 gem 'autoprefixer-rails'
